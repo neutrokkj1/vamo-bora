@@ -1,0 +1,18 @@
+public class Main
+{
+    public static void main(String[] args) {
+    //nome
+	String nome1 = "Giovanne";
+	String nome2 = "Vazoller";
+	Boolean comparar = nome1 == nome2;
+
+	System.out.print(comparar);
+
+	//idade
+	int idade1 = 15;
+	int idade2 = 20;
+	Boolean vapo = idade1 == idade2;
+
+	System.out.println(vapo);
+	}
+}
