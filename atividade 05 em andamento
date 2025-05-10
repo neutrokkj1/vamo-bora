@@ -1,0 +1,38 @@
+public class Main
+{
+	public static void main(String[] args) {
+	   
+	   //produtos
+	   String a = "abacaxi";
+	   String g = "Goiaba";
+	   String la = "Laranja";
+	   
+	   //Valor
+	   Double valorA = 8.5;
+	   Double valorG = 2.0;
+	   Double valorL = 1.3;
+	   
+	   //codigo
+	   
+	   int codigo = 1;
+	   
+	   //processo
+	   
+	   if (codigo == 1) { 
+	       System.out.println(a + valorA);
+	   } 
+	       
+	       else if (codigo == 2) {
+	       System.out.println(g + valorG);
+	   }
+	       
+	       else (codigo = 3);
+	       System.out.println(la + valorL);
+	   
+	       
+	        
+	       
+	   }
+	 
+	
+}
